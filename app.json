@@ -4,7 +4,10 @@
     "slug": "bethehero",
     "privacy": "public",
     "sdkVersion": "36.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,13 +19,17 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.fantinattoapp.bethehero"
     },
     "android": {
       "package": "com.fantinattoapp.bethehero"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/vifanti/be-the-hero-mobile"
   }
 }
