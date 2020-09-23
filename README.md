@@ -1,1 +1,1 @@
-# be-the-hero-mobile
+# bethehero-mobile
